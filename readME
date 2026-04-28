@@ -1,0 +1,36 @@
+Welcome to the bubble shooter!
+When you first enter into the game you will be presented with a pink 
+"opening screen" where you will have to enter p to surpass this and begin playing
+
+While playing you have 3 main controllers. the left and right arrow to move
+your shooter and the space bar to shoot the bullet from the angle you choose.
+Other options included in the game 
+Q to quit
+R to reset (available after the game is over only!)
+
+object of the game is to pop all the bubbles before they get to the bottom
+without hitting the black!
+
+Black is the "death bubble" and when hit will immediately wash out the game 
+ultimately bringing up the end screen and giving you the option to restart from 
+level one or quit altogether.
+
+Happy playing Bubble Shooter!
+
+
+
+
+***DISCLAIMERS***
+for testing reasons the game is set to be shorter (30 points to level up and 
+more black bubbles) This presents the opportunity to test all factors while also 
+not taking a million years! happy to set it to how it is meant to be played 
+but figured you might appreciate this for purpose of grading
+
+I struggled in a few different areas but really felt this program helped me grow! 
+For collision detection, I think my biggest issue is the math being off- reread 
+and reworked my logic many times but when the math of the game doesn't recognize
+the proper positioning it can't always tell when the bubbles match leaving some
+random bubbles that I tried endlessly to resolve. That being said this code is 
+closest I could get to it with the way I set it up. 
+This may be a more basic program than some other classmates but I am very happy
+with the progress I made and do feel this helped me grow a lot as did our class! 
